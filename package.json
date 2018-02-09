@@ -1,0 +1,22 @@
+{
+  "name": "registration",
+  "version": "1.0.0",
+  "description": "Registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "testRegistration"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandu-bommu/registration.git"
+  },
+  "keywords": [
+    "registrationKey"
+  ],
+  "author": "Chandrasekhar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandu-bommu/registration/issues"
+  },
+  "homepage": "https://github.com/chandu-bommu/registration#readme"
+}
